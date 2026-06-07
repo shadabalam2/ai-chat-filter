@@ -24,3 +24,7 @@ python ai_chat_filter.py
 | `!clear` | Reset statistics |
 | `!help` | Show help |
 | `!quit` | Exit |
+
+
+## 🖥️ Preview
+![screenshot](Screenshot 2026-06-07 215352.png)
