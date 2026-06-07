@@ -27,5 +27,6 @@ python ai_chat_filter.py
 
 
 ## 🖥️ Preview
+<img width="1339" height="766" alt="Screenshot 2026-06-07 215345" src="https://github.com/user-attachments/assets/bf2e3ce5-9a6b-4c6c-948f-5fa9faadba5c" />
 ![screenshot](https://1drv.ms/i/c/be3c28e443d62d24/IQD4bJHqxvw6TYNFDuBP-V4mAaltrXwtzAFeASgSYzCfXCw?e=lPmzOz)
 https://1drv.ms/i/c/be3c28e443d62d24/IQD4bJHqxvw6TYNFDuBP-V4mAaltrXwtzAFeASgSYzCfXCw?e=lPmzOz
