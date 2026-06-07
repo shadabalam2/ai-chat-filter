@@ -27,4 +27,5 @@ python ai_chat_filter.py
 
 
 ## 🖥️ Preview
-![screenshot](Screenshot 2026-06-07 215352.png)
+![screenshot](https://1drv.ms/i/c/be3c28e443d62d24/IQD4bJHqxvw6TYNFDuBP-V4mAaltrXwtzAFeASgSYzCfXCw?e=lPmzOz)
+https://1drv.ms/i/c/be3c28e443d62d24/IQD4bJHqxvw6TYNFDuBP-V4mAaltrXwtzAFeASgSYzCfXCw?e=lPmzOz
