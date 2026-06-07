@@ -1,14 +1,11 @@
 # ai-chat-filter
 Multi-algorithm AI-powered chat filter system
 # 🛡️ AI Chat Filter System v3.0
-
+Multi-algorithm toxicity and offensive content guard for chat applications.
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/ai-chat-filter?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/ai-chat-filter?style=for-the-badge)
-
-Multi-algorithm toxicity and offensive content guard for chat applications.
-
+![Stars](https://img.shields.io/github/stars/shadabalam2/ai-chat-filter?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/shadabalam2/ai-chat-filter?style=for-the-badge)
 ## Features
 - Keyword & leet-speak detection
 - Sentiment toxicity scoring
